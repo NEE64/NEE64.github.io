@@ -1,4 +1,4 @@
-## Welcome
+## Welcome to my Gibhub.io Page!
 
 This is my public ePortfolio repository for the course CS-499 at Southern New Hampshire University. 
 
@@ -18,6 +18,7 @@ Insert your self-assessment here...
 | Software Development: I can go through each stage of the Software Development Life Cycle intuitively and use best industry standards. |
 <br/>
 
+<br/>
 | **My Soft Skills** |
 |:-----------:|:-----------:|
 | Problem-Solving: I can analyze a problem and create a solution using small logical steps. |
