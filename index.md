@@ -28,8 +28,6 @@ Software Development: I can go through each stage of the Software Development Li
     </a>
 </div>
 
-<br/>
-
 My Soft Skills: <br/>
 Problem-Solving: I can analyze a problem and create a solution using small logical steps. <br/>
 Adaptability: I can learn new frameworks, programming languages, and methodologies quickly. <br/>
