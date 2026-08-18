@@ -3,12 +3,12 @@
 This is my public ePortfolio repository for the course CS-499 at Southern New Hampshire University. 
 
 ### <u>Table of Contents</u>
-&nbsp;[My Professional Assessment](#self-assessment "My Professional Assessment")<br/>
-&nbsp;[My Documentation](#narrative-docs "My Documentation")<br/>
-&nbsp;[Travlr Getaways Releases](#release-versions "Travlr Getaways Releases")<br/>
-&nbsp;[Travlr Getaways Web Application: Software Design and Engineering](#software-engineering "Travlr Getaways Web Application: Software Design and Engineering")<br/>
-&nbsp;[Travlr Getaways Web Application: Algorithms and Data Structure](#algorithim-data "Travlr Getaways Web Application: Algorithms and Data Structure")<br/>
-&nbsp;[Travlr Getaways Web Application: Databases](#mongo-db "Travlr Getaways Web Application: Databases")<br/>
+&nbsp;[My Professional Assessment](#my-professional-assessment "My Professional Assessment")<br/>
+&nbsp;[My Documentation](#my-documentation "My Documentation")<br/>
+&nbsp;[Travlr Getaways Releases](#travlr-getaways-releases "Travlr Getaways Releases")<br/>
+&nbsp;[Travlr Getaways Web Application: Software Design and Engineering](#travlr-getaways-software-design-and-engineering "Travlr Getaways Web Application: Software Design and Engineering")<br/>
+&nbsp;[Travlr Getaways Web Application: Algorithms and Data Structure](#travlr-getaways-algorithims-and-data-structure "Travlr Getaways Web Application: Algorithms and Data Structure")<br/>
+&nbsp;[Travlr Getaways Web Application: Databases](#travlr-getaways-databases "Travlr Getaways Web Application: Databases")<br/>
 <br/>
 
 ### <u>My Professional Assessment</u>
