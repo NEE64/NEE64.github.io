@@ -6,9 +6,9 @@ This is my public ePortfolio repository for the course CS-499 at Southern New Ha
 &nbsp;[My Professional Assessment](#my-professional-assessment "My Professional Assessment")<br/>
 &nbsp;[My Documentation](#my-documentation "My Documentation")<br/>
 &nbsp;[Travlr Getaways Releases](#travlr-getaways-releases "Travlr Getaways Releases")<br/>
-&nbsp;[Travlr Getaways Web Application: Software Design and Engineering](#travlr-getaways-software-design-and-engineering "Travlr Getaways Web Application: Software Design and Engineering")<br/>
-&nbsp;[Travlr Getaways Web Application: Algorithms and Data Structure](#travlr-getaways-algorithims-and-data-structure "Travlr Getaways Web Application: Algorithms and Data Structure")<br/>
-&nbsp;[Travlr Getaways Web Application: Databases](#travlr-getaways-databases "Travlr Getaways Web Application: Databases")<br/>
+&nbsp;[Travlr Getaways Web Application: Software Design and Engineering](#travlr-getaways-web-application-software-design-and-engineering "Travlr Getaways Web Application: Software Design and Engineering")<br/>
+&nbsp;[Travlr Getaways Web Application: Algorithms and Data Structure](#travlr-getaways-web-application-algorithims-and-data-structure "Travlr Getaways Web Application: Algorithms and Data Structure")<br/>
+&nbsp;[Travlr Getaways Web Application: Databases](#travlr-getaways-web-application-databases "Travlr Getaways Web Application: Databases")<br/>
 <br/>
 
 ### <u>My Professional Assessment</u>
