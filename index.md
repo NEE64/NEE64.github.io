@@ -15,7 +15,7 @@ This is my public ePortfolio repository for the course CS-499 at Southern New Ha
 This repository serves as a complete documentation of the development of my web application capstone project titled “Travlr Getaways”. Creating an ePortfolio is integral to showcasing one's skillset and specialties as well as serving as a highly visual way to communicate one's potential value to potential employers. The contents of this ePortfolio include several release versions of my project as well as written narratives explaining each change that I’ve made and features that I’ve added throughout this course, all of which are made to showcase my own skillset as well as well as my technical knowledge and my growth over time. Additionally, this application was designed with three key categories in mind: software design/engineering, algorithms and data structures, and databases. 
 
 <br/>
-| ** My Hard Skills** | <br/>
+| My Hard Skills | <br/>
 |:-----------:|:-----------:| <br/>
 | Computational Architecture: I gained an understanding of how hardware components work together, the similarities and differences between operating systems, and the importance of computer networks and databases. | <br/>
 | Cybersecurity: I gained foundational experience in using security measures to protect sensitive information and organizational systems. | <br/>
@@ -29,7 +29,7 @@ This repository serves as a complete documentation of the development of my web 
 
 <br/>
 
-| **My Soft Skills** | <br/>
+| My Soft Skills | <br/>
 |:-----------:|:-----------:| <br/>
 | Problem-Solving: I can analyze a problem and create a solution using small logical steps. | <br/>
 | Adaptability: I can learn new frameworks, programming languages, and methodologies quickly. | <br/>
@@ -40,8 +40,6 @@ This repository serves as a complete documentation of the development of my web 
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
-<br/>
-
 <br/>
 
 ### _My Documentation_
