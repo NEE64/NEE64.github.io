@@ -74,6 +74,11 @@ You can find all of my milestone documentation here!
 ### _Travlr Getaways Releases_
 You can find all of my release versions for my web application here!
 
+[Travlr Before Enhancements (v.0.0-alpha)](https://github.com/NEE64/NEE64.github.io/releases/tag/v.0.0-alpha) <br/>
+[Travlr at Milestone Two (v.1.0-alpha)](https://github.com/NEE64/NEE64.github.io/releases/tag/v.1.0-alpha) <br/>
+[Travlr at Milestone Three (v.0.0-beta)](https://github.com/NEE64/NEE64.github.io/releases/tag/v.0.0-beta) <br/>
+[Travlr After Enhancements (v.1.0_stable-release)](https://github.com/NEE64/NEE64.github.io/releases/tag/v1.0_stable-release) <br/>
+
 <div style="text-align: right;">
     <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
