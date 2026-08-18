@@ -7,7 +7,7 @@ This is my public ePortfolio repository for the course CS-499 at Southern New Ha
 &nbsp;[My Documentation](#my-documentation "My Documentation")<br/>
 &nbsp;[Travlr Getaways Releases](#travlr-getaways-releases "Travlr Getaways Releases")<br/>
 &nbsp;[Travlr Getaways Web Application: Software Design and Engineering](#travlr-getaways-web-application-software-design-and-engineering "Travlr Getaways Web Application: Software Design and Engineering")<br/>
-&nbsp;[Travlr Getaways Web Application: Algorithms and Data Structure](#travlr-getaways-web-application-algorithims-and-data-structure "Travlr Getaways Web Application: Algorithms and Data Structure")<br/>
+&nbsp;[Travlr Getaways Web Application: Algorithms and Data Structure](#travlr-getaways-web-application-algorithms-and-data-structure "Travlr Getaways Web Application: Algorithms and Data Structure")<br/>
 &nbsp;[Travlr Getaways Web Application: Databases](#travlr-getaways-web-application-databases "Travlr Getaways Web Application: Databases")<br/>
 <br/>
 
@@ -16,7 +16,7 @@ This repository serves as a complete documentation of the development of my web 
 
 <br/>
 | My Hard Skills | <br/>
-|:-----------:|:-----------:| <br/>
+|:-----------:| <br/>
 | Computational Architecture: I gained an understanding of how hardware components work together, the similarities and differences between operating systems, and the importance of computer networks and databases. | <br/>
 | Cybersecurity: I gained foundational experience in using security measures to protect sensitive information and organizational systems. | <br/>
 | Software Development: I can go through each stage of the Software Development Life Cycle intuitively and use best industry standards. | <br/>
@@ -30,7 +30,7 @@ This repository serves as a complete documentation of the development of my web 
 <br/>
 
 | My Soft Skills | <br/>
-|:-----------:|:-----------:| <br/>
+|:-----------:| <br/>
 | Problem-Solving: I can analyze a problem and create a solution using small logical steps. | <br/>
 | Adaptability: I can learn new frameworks, programming languages, and methodologies quickly. | <br/>
 | Team Collaboration: I work well with others on team-based projects and approach collaborative issues with empathy. | <br/>
@@ -42,8 +42,28 @@ This repository serves as a complete documentation of the development of my web 
 </div>
 <br/>
 
-### _My Documentation_
-You can find all of my narrative documentation here!
+### _My Narrative Journals_
+You can find all of my narrative journals here!
+
+[Module One Journal](https://github.com/NEE64/NEE64.github.io/blob/main/English_Module-One-Assignment_CS-499.pdf) <br/>
+[Module Two Journal](https://github.com/NEE64/NEE64.github.io/blob/main/English_Module-Two-Journal_CS-499.pdf) <br/>
+[Module Three Journal](https://github.com/NEE64/NEE64.github.io/blob/main/English_Module-Three-Journal_CS-499.pdf) <br/>
+[Module Four Journal](https://github.com/NEE64/NEE64.github.io/blob/main/English_Module-Four-Journal_CS-499.pdf) <br/>
+[Module Five Journal](https://github.com/NEE64/NEE64.github.io/blob/main/English_Module-Five-Journal_CS-499.pdf) <br/>
+[Module Six Journal](https://github.com/NEE64/NEE64.github.io/blob/main/English_Module-Six-Journal_CS-499.pdf) <br/>
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
+### _My Milestone Documentation_
+You can find all of my milestone documentation here!
+
+[Milestone Two](https://github.com/NEE64/NEE64.github.io/blob/main/English_Milestone-Two_CS-499.pdf) <br/>
+[Milestone Three](https://github.com/NEE64/NEE64.github.io/blob/main/English_Milestone-Three_CS-499.pdf) <br/>
+[Milestone Four](https://github.com/NEE64/NEE64.github.io/blob/main/English_Milestone-Four_CS-499.pdf) <br/>
 
 <div style="text-align: right;">
     <a href="#">
